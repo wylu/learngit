@@ -1,5 +1,5 @@
 test branch manage
 create a develop branch
 merge with --no-ff
-set-upstream-to
+--set-upstream-to
 
